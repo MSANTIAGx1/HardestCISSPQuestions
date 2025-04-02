@@ -3,10 +3,11 @@
 [![CISSP](https://img.shields.io/badge/CISSP-Certification-blue)](https://www.isc2.org/Certifications/CISSP)
 [![Questions](https://img.shields.io/badge/Questions-600%2B-orange)](https://github.com/yourusername/cissp-questions)
 [![Updated](https://img.shields.io/badge/Updated-April%202025-brightgreen)](https://github.com/yourusername/cissp-questions)
+[![License](https://img.shields.io/badge/License-MIT-lightgrey)](https://opensource.org/licenses/MIT)
 
 ## Overview
 
-This repository contains a comprehensive collection of 600+ CISSP® (Certified Information Systems Security Professional) practice questions covering all eight domains of the CISSP Common Body of Knowledge (CBK). Each question is presented in a standardized JSON format.
+This repository contains a comprehensive collection of 600+ CISSP® (Certified Information Systems Security Professional) practice questions covering all eight domains of the CISSP Common Body of Knowledge (CBK). Each question is presented in a standardized JSON format to help cybersecurity professionals prepare for the rigorous CISSP examination.
 
 ## Question Format
 
@@ -41,7 +42,7 @@ All questions follow this exact JSON format:
     "dateScraped": "YYYY-MM-DDT00:00:00.000Z"
   }
 }
-
+```
 
 ## CISSP Domains Covered
 
@@ -55,6 +56,22 @@ This question collection spans all eight CISSP domains:
 6. Security Assessment and Testing
 7. Security Operations
 8. Software Development Security
+
+## How to Use This Repository
+
+- **Study Tool**: Use these questions to test your knowledge across all CISSP domains
+- **Exam Preparation**: Practice with real-world scenarios similar to what you'll encounter on the exam
+- **Knowledge Assessment**: Identify your strengths and areas that need more focus
+- **Group Study**: Share with study groups to facilitate discussion on complex security concepts
+
+
+## Contributing
+
+Contributions to this repository are welcome! If you'd like to add new questions, fix errors, or improve explanations, please:
+
+1. Fork the repository
+2. Create a new branch for your changes
+3. Submit a pull request with a clear description of your contributions
 
 ## Keywords
 
